@@ -1,2 +1,0 @@
-^heartistry-user-api/(?!Dockerfile$).*
-^heartistry-task-api/(?!Dockerfile$).*
