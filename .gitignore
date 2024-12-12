@@ -1,3 +1,2 @@
-heartistry/
-heartistry-user-api/
-heartistry-task-api/
+^heartistry-user-api/(?!Dockerfile$).*
+^heartistry-task-api/(?!Dockerfile$).*
